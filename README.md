@@ -36,6 +36,4 @@ This tool automates that tedious process by:
 2. Install the required dependencies using the `requirements.txt` file:
    ```bash
    pip install -r requirements.txt
-
-   ```bash
    app.py
